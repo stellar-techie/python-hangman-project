@@ -6,3 +6,6 @@ this project uses basics of python like:
 --ascii characters
 --strings
 etc.. 
+##
+this is a terminal friendly project with interactive interface. 
+##
